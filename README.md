@@ -11,9 +11,9 @@ PLEASE NOTE THAT PRIOR TO THIS ASSIGNMENT, YOU NEED TO HAVE FINISHED THE SECTION
 The other values can be found on your Auth0 profile after completing the pre-homework.
 
 ```yaml
-    DB_HOST=<mySQLWorkbench_Connect_Hostname>
+    DB_HOST=<34.121.0.103>
     DB_USER=root
-    DB_PASSWORD=<mySQLWorkbench_Connect_Password>
+    DB_PASSWORD=<hello>
     DB_DEFAULT_SCHEMA=<mySQLWorkbench_Connect_DefaultSchema> || admin
     AUTH0_IDENTITY=my-express-app
     AUTH0_DOMAIN=<findOnAuth0-APIs>>my-express-app>>test>>Node.js>>https://EVERYTHINGbtwHEREandHERE/oauth/token>

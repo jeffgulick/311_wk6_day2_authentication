@@ -1,4 +1,6 @@
-1const axios = require('axios')
+require('dotenv').config()
+
+const axios = require('axios')
 const mysql = require('mysql')
 const bcrypt = require('bcrypt')
 const jwt = require('jsonwebtoken')
